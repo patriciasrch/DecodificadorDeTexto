@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 30px;
+    position: center;
+}
+
+textarea {
+
+    width: 50%;
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    
+}
